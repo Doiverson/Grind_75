@@ -27,5 +27,3 @@ This project is configured to disable AI assistance for independent algorithm pr
 - `problem_name.py` or `problem_name.js`
 - Include problem description as comments
 - Add time/space complexity analysis
-
-# Grind_75
