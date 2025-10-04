@@ -1,6 +1,6 @@
 ## ✅ Week 1: 配列 & 文字列 I（Two Pointers / Sliding Window / HashMap）
-- [ ] Two Sum
-- [ ] Valid Anagram
+- [x] Two Sum
+- [x] Valid Anagram
 - [ ] Valid Palindrome
 - [ ] Longest Substring Without Repeating Characters
 

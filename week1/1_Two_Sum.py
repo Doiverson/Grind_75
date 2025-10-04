@@ -1,4 +1,7 @@
 # Two Sum
+# Two Pointers
+# Time Complexity: O(n)
+# Space Complexity: O(n)
 
 def twoSum(nums: list[int], target: int) -> list[int]:
   hashmap = {}

@@ -1,4 +1,7 @@
 // Two Sum
+// Two Pointers
+// Time Complexity: O(n)
+// Space Complexity: O(n)
 
 function twoSum(nums: number[], target: number): number[] {
   const hashMap = new Map();
