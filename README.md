@@ -4,7 +4,6 @@ This project is configured to disable AI assistance for independent algorithm pr
 
 ## Project Structure
 ```
-/Users/doiverson/Documents/Grind_75/
 ├── week1/          # Two Pointers, Sliding Window, HashMap
 ├── week2/          # Prefix Sum, Stack, Queue
 ├── week3/          # Binary Search, Linked Lists
