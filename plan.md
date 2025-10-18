@@ -7,7 +7,7 @@
 ---
 
 ## ✅ Week 2: 配列 & 文字列 II（Prefix Sum / Stack / Queue）
-- [ ] Group Anagrams
+- [x] Group Anagrams
 - [ ] Maximum Subarray
 - [ ] Valid Parentheses
 - [ ] Implement Queue using Stacks
