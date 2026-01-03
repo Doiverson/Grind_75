@@ -8,8 +8,8 @@
 
 ## ✅ Week 2: 配列 & 文字列 II（Prefix Sum / Stack / Queue）
 - [x] Group Anagrams
-- [ ] Maximum Subarray
-- [ ] Valid Parentheses
+- [x] Maximum Subarray
+- [x] Valid Parentheses
 - [ ] Implement Queue using Stacks
 
 ---

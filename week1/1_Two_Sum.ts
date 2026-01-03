@@ -10,7 +10,6 @@ function twoSum(nums: number[], target: number): number[] {
     if (hashMap.has(complement)) {
       return [hashMap.get(complement), i];
     }
-
     hashMap.set(nums[i], i)
   }
   return [];

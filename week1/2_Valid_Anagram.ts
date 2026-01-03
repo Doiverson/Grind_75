@@ -1,10 +1,10 @@
 // Valid Anagram
-// Two Pointers
+// Hash Table
 // Time Complexity: O(n)
 // Space Complexity: O(1)
 
-const isValidAnagram = (s: string, t: string) : boolean => {
-  if (s.length !== t.length) return false
+const isValidAnagram = (s: string, t: string): boolean => {
+  if (s.length !== t.length) return false;
 
   const count = new Map();
   for (const char of s) {
@@ -18,6 +18,6 @@ const isValidAnagram = (s: string, t: string) : boolean => {
   }
 
   return true;
-}
+};
 
 console.log(isValidAnagram('anagram', 'nagaram'));

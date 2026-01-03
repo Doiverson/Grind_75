@@ -20,6 +20,6 @@ https: const groupAnagrams = (strs: string[]): string[][] => {
 };
 
 // Test cases
-console.log(groupAnagrams(["eat","tea","tan","ate","nat","bat"]));
-console.log(groupAnagrams([""]));
-console.log(groupAnagrams(["a"]));
+console.log(groupAnagrams(['eat', 'tea', 'tan', 'ate', 'nat', 'bat']));
+console.log(groupAnagrams(['']));
+console.log(groupAnagrams(['a']));
