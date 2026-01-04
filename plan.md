@@ -10,12 +10,12 @@
 - [x] Group Anagrams
 - [x] Maximum Subarray
 - [x] Valid Parentheses
-- [ ] Implement Queue using Stacks
+- [x] Implement Queue using Stacks
 
 ---
 
 ## ✅ Week 3: 二分探索 & 連結リスト I（基本二分探索 / 反転）
-- [ ] Binary Search
+- [x] Binary Search
 - [ ] Search a 2D Matrix
 - [ ] Reverse Linked List
 - [ ] Merge Two Sorted Lists
