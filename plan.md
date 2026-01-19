@@ -17,7 +17,7 @@
 ## ✅ Week 3: 二分探索 & 連結リスト I（基本二分探索 / 反転）
 - [x] Binary Search
 - [x] Search a 2D Matrix
-- [ ] Reverse Linked List
+- [x] Reverse Linked List
 - [ ] Merge Two Sorted Lists
 
 ---
