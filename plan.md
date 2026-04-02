@@ -18,12 +18,12 @@
 - [x] Binary Search
 - [x] Search a 2D Matrix
 - [x] Reverse Linked List
-- [ ] Merge Two Sorted Lists
+- [x] Merge Two Sorted Lists
 
 ---
 
 ## ✅ Week 4: 二分探索 & 連結リスト II（Cycle Detection / 決め打ち探索）
-- [ ] Linked List Cycle
+- [x] Linked List Cycle
 - [ ] Find Minimum in Rotated Sorted Array
 - [ ] Time Based Key-Value Store（難しめ）
 
