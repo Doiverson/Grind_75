@@ -3,6 +3,7 @@
 - [x] Valid Anagram
 - [x] Valid Palindrome
 - [x] Longest Substring Without Repeating Characters
+- [x] Best Time to Buy and Sell Stock（LeetCode 121）
 
 ---
 
