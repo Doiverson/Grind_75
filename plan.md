@@ -24,7 +24,7 @@
 
 ## ✅ Week 4: 二分探索 & 連結リスト II（Cycle Detection / 決め打ち探索）
 - [x] Linked List Cycle
-- [ ] Find Minimum in Rotated Sorted Array
+- [x] Find Minimum in Rotated Sorted Array
 - [ ] Time Based Key-Value Store（難しめ）
 
 ---
