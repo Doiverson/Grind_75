@@ -2,6 +2,7 @@
 // Stack
 // Time Complexity: O(1)
 // Space Complexity: O(n)
+// leetcode.com/problems/implement-queue-using-stacks/description/
 
 class MyQueue {
   private stackIn: number[];

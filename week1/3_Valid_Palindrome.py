@@ -2,6 +2,7 @@
 # Two Pointers
 # Time Complexity: O(n)
 # Space Complexity: O(1)
+# leetcode.com/problems/valid-palindrome/description/
 
 def isPalindrome(s: str) -> bool:
   l, r = 0, len(s) - 1

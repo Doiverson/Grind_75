@@ -20,6 +20,7 @@
 #   - peek: O(1) amortized - same as pop
 #   - empty: O(1) - simple length check
 # Space Complexity: O(n) - stores all elements
+# leetcode.com/problems/implement-queue-using-stacks/description/
 
 
 class MyQueue:

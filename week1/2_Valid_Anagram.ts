@@ -2,6 +2,7 @@
 // Hash Table
 // Time Complexity: O(n)
 // Space Complexity: O(1)
+// leetcode.com/problems/valid-anagram/description/
 
 const isValidAnagram = (s: string, t: string): boolean => {
   if (s.length !== t.length) return false;

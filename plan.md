@@ -58,3 +58,8 @@
 - [ ] Jump Game
 - [ ] Merge Intervals
 - [ ] Meeting Rooms II
+
+---
+
+## ✅ 番外: Codility / その他（Grind 75 外・`extra/`）
+- [x] Check if All A's Appears Before All B's（LeetCode 2124）

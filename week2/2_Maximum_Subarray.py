@@ -2,6 +2,7 @@
 # Kadane's Algorithm (Dynamic Programming)
 # Time Complexity: O(n)
 # Space Complexity: O(1)
+# leetcode.com/problems/maximum-subarray/description/
 
 def maxSubArray(nums: list[int]) -> int:
     maxSum = nums[0]

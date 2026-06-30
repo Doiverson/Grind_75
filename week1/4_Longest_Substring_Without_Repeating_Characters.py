@@ -2,6 +2,7 @@
 # Sliding Window
 # Time Complexity: O(n)
 # Space Complexity: O(n)
+# leetcode.com/problems/longest-substring-without-repeating-characters/description/
 
 def lengthOfLongestSubstring(s: str) -> int:
   seen = set()

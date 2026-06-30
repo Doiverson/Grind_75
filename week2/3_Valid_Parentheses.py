@@ -2,6 +2,7 @@
 # Stack
 # Time Complexity: O(n)
 # Space Complexity: O(n)
+# leetcode.com/problems/valid-parentheses/description/
 
 def isValid(s: str) -> bool:
     m = []

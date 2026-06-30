@@ -2,6 +2,7 @@
 // Kadane's Algorithm
 // Time Complexity: O(n)
 // Space Complexity: O(1)
+// leetcode.com/problems/maximum-subarray/description/
 
 const maxSubArray = (nums: number[]): number => {
   let maxSum = nums[0];

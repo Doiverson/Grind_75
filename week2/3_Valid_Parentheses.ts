@@ -2,6 +2,7 @@
 // Stack
 // Time Complexity: O(n)
 // Space Complexity: O(n)
+// leetcode.com/problems/valid-parentheses/description/
 
 const isValid = (s: string): boolean => {
   let m: string[] = [];

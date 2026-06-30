@@ -2,6 +2,7 @@
 // Two Pointers
 // Time Complexity: O(n)
 // Space Complexity: O(1)
+// leetcode.com/problems/valid-palindrome/description/
 
 const isPalindrome = (s: string): boolean => {
   let l = 0;

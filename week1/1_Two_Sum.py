@@ -2,6 +2,7 @@
 # Two Pointers
 # Time Complexity: O(n)
 # Space Complexity: O(n)
+# leetcode.com/problems/two-sum/description/
 
 def twoSum(nums: list[int], target: int) -> list[int]:
   hashmap = {}
